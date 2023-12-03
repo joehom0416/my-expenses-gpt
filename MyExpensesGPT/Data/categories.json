@@ -1,0 +1,54 @@
+[
+    {
+      "id": 1,
+      "name": "Housing (Rent/Mortgage)"
+    },
+    {
+      "id": 2,
+      "name": "Utilities (Electricity, Gas, Water, Internet)"
+    },
+    {
+      "id": 3,
+      "name": "Groceries/Food"
+    },
+    {
+      "id": 4,
+      "name": "Transportation (Fuel, Public Transport, Car Maintenance)"
+    },
+    {
+      "id": 5,
+      "name": "Insurance (Health, Car, Home, Life)"
+    },
+    {
+      "id": 6,
+      "name": "Healthcare/Medical"
+    },
+    {
+      "id": 7,
+      "name": "Education (Tuition, Books, Supplies)"
+    },
+    {
+      "id": 8,
+      "name": "Childcare"
+    },
+    {
+      "id": 9,
+      "name": "Entertainment and Recreation"
+    },
+    {
+      "id": 10,
+      "name": "Clothing"
+    },
+    {
+      "id": 11,
+      "name": "Personal Care (Haircuts, Gym Memberships)"
+    },
+    {
+      "id": 12,
+      "name": "Gifts and Donations"
+    },
+    {
+      "id": 13,
+      "name": "Miscellaneous"
+    }
+  ]

@@ -1,0 +1,1570 @@
+[
+  {
+    "id": "63eaded3-4288-4ab0-9115-b6ed4f244e37",
+    "categoryId": 10,
+    "amount": 820.33,
+    "date": "2023-03-30T00:00:00",
+    "description": "Clothing purchase"
+  },
+  {
+    "id": "22cb8abd-3ea5-4149-9d6a-277851089bcd",
+    "categoryId": 1,
+    "amount": 566.98,
+    "date": "2023-05-05T00:00:00",
+    "description": "Mortgage installment"
+  },
+  {
+    "id": "7369e41a-2e8b-45e7-891c-347172d57fdf",
+    "categoryId": 4,
+    "amount": 142.66,
+    "date": "2023-07-17T00:00:00",
+    "description": "Public transport ticket"
+  },
+  {
+    "id": "9bac0a3c-ca64-48a3-a194-5d80022cdcec",
+    "categoryId": 4,
+    "amount": 562.82,
+    "date": "2023-09-06T00:00:00",
+    "description": "Public transport ticket"
+  },
+  {
+    "id": "56504dfc-eb6c-4607-8444-c5ee97a78670",
+    "categoryId": 4,
+    "amount": 596.1,
+    "date": "2023-06-28T00:00:00",
+    "description": "Fuel purchase"
+  },
+  {
+    "id": "09e4fcb9-8a74-45a1-96ad-b2287dc6675f",
+    "categoryId": 9,
+    "amount": 269.56,
+    "date": "2023-07-05T00:00:00",
+    "description": "Sporting event ticket"
+  },
+  {
+    "id": "c8cf825d-0d7d-4bd7-afa9-9e3b94320c46",
+    "categoryId": 7,
+    "amount": 970.34,
+    "date": "2023-06-15T00:00:00",
+    "description": "Textbook purchase"
+  },
+  {
+    "id": "fb47580f-d203-46c2-a23d-e3a5c8050ca5",
+    "categoryId": 7,
+    "amount": 819.31,
+    "date": "2023-09-23T00:00:00",
+    "description": "Textbook purchase"
+  },
+  {
+    "id": "2ef8afce-14a6-4559-9b5a-d2628e3305fb",
+    "categoryId": 12,
+    "amount": 21,
+    "date": "2023-09-16T00:00:00",
+    "description": "Gift purchase"
+  },
+  {
+    "id": "c6fb30c0-04cd-4743-b921-1a01fb81e60d",
+    "categoryId": 8,
+    "amount": 772.9,
+    "date": "2023-10-02T00:00:00",
+    "description": "Nanny payment"
+  },
+  {
+    "id": "4a72dffa-b473-423b-b0c3-5fc3b7ebd80a",
+    "categoryId": 1,
+    "amount": 852.02,
+    "date": "2023-01-21T00:00:00",
+    "description": "Rent payment"
+  },
+  {
+    "id": "37f49c0a-16d0-4dac-a059-659832c9371c",
+    "categoryId": 6,
+    "amount": 648.68,
+    "date": "2023-08-30T00:00:00",
+    "description": "Medication purchase"
+  },
+  {
+    "id": "5eb3c521-2517-45d0-a9a1-ff07cbd7005d",
+    "categoryId": 12,
+    "amount": 809.74,
+    "date": "2023-08-24T00:00:00",
+    "description": "Charity donation"
+  },
+  {
+    "id": "9e6a9f73-8600-416b-9c46-dd4db361bbfb",
+    "categoryId": 3,
+    "amount": 713.36,
+    "date": "2023-07-04T00:00:00",
+    "description": "Grocery shopping"
+  },
+  {
+    "id": "6660a385-01ff-4795-a58e-5f02ff8766c1",
+    "categoryId": 1,
+    "amount": 755.84,
+    "date": "2023-09-15T00:00:00",
+    "description": "Mortgage installment"
+  },
+  {
+    "id": "9f6c106a-0d25-4d7b-a13a-ffea52692b4b",
+    "categoryId": 7,
+    "amount": 683.67,
+    "date": "2023-01-03T00:00:00",
+    "description": "Textbook purchase"
+  },
+  {
+    "id": "c33c0e54-c243-40c5-865c-73a0e240ac34",
+    "categoryId": 5,
+    "amount": 368.3,
+    "date": "2023-06-22T00:00:00",
+    "description": "Car insurance payment"
+  },
+  {
+    "id": "741a4d91-d61f-44f3-8422-5c8c785e9782",
+    "categoryId": 9,
+    "amount": 995.67,
+    "date": "2023-12-22T00:00:00",
+    "description": "Sporting event ticket"
+  },
+  {
+    "id": "a4779323-3306-4ac3-b8bd-69a3732bb0d3",
+    "categoryId": 1,
+    "amount": 601.61,
+    "date": "2023-02-10T00:00:00",
+    "description": "Rent payment"
+  },
+  {
+    "id": "e80989dd-b093-4a7b-8b17-af1ca3cad149",
+    "categoryId": 3,
+    "amount": 299.97,
+    "date": "2023-05-03T00:00:00",
+    "description": "Dining out"
+  },
+  {
+    "id": "ea1ea697-1feb-41a4-b4cb-16a0e4d7f2f1",
+    "categoryId": 8,
+    "amount": 264.5,
+    "date": "2023-12-20T00:00:00",
+    "description": "Childcare facility fee"
+  },
+  {
+    "id": "816210d4-ed06-4504-881a-34fcad1c4de9",
+    "categoryId": 3,
+    "amount": 99.58,
+    "date": "2023-05-13T00:00:00",
+    "description": "Grocery shopping"
+  },
+  {
+    "id": "b7f6a92b-431a-4046-bd7f-ec0e9f8f9deb",
+    "categoryId": 7,
+    "amount": 246.18,
+    "date": "2023-06-03T00:00:00",
+    "description": "Tuition fee payment"
+  },
+  {
+    "id": "8bb5d906-d899-4929-b0ee-fca8efc04b29",
+    "categoryId": 2,
+    "amount": 575.3,
+    "date": "2023-02-05T00:00:00",
+    "description": "Water bill"
+  },
+  {
+    "id": "cc71d65c-2591-458a-bce0-021bbb11e1db",
+    "categoryId": 8,
+    "amount": 547.44,
+    "date": "2023-06-21T00:00:00",
+    "description": "Childcare facility fee"
+  },
+  {
+    "id": "b2f3b51b-86c6-46cf-879e-92299d7d2b24",
+    "categoryId": 11,
+    "amount": 385.77,
+    "date": "2023-10-10T00:00:00",
+    "description": "Spa treatment"
+  },
+  {
+    "id": "40b7f13f-c73f-4128-afc8-11cd550bf2b3",
+    "categoryId": 2,
+    "amount": 493.61,
+    "date": "2023-07-13T00:00:00",
+    "description": "Water bill"
+  },
+  {
+    "id": "2e45cf0c-7bf3-4005-badb-c7ba6b2c3d7f",
+    "categoryId": 4,
+    "amount": 504.23,
+    "date": "2023-04-22T00:00:00",
+    "description": "Public transport ticket"
+  },
+  {
+    "id": "f5baaa83-52a1-43ac-ba8c-a2c2e240a161",
+    "categoryId": 3,
+    "amount": 289.66,
+    "date": "2023-06-06T00:00:00",
+    "description": "Grocery shopping"
+  },
+  {
+    "id": "dafab06f-04eb-4985-b3e5-e998371f4985",
+    "categoryId": 9,
+    "amount": 882.4,
+    "date": "2023-08-09T00:00:00",
+    "description": "Sporting event ticket"
+  },
+  {
+    "id": "6097b224-87e9-4f18-86fe-8b9cd880c2ab",
+    "categoryId": 4,
+    "amount": 456.97,
+    "date": "2023-02-06T00:00:00",
+    "description": "Car maintenance cost"
+  },
+  {
+    "id": "64ecc97e-6639-4684-9768-c3a7cef4e5f5",
+    "categoryId": 4,
+    "amount": 251.09,
+    "date": "2023-01-24T00:00:00",
+    "description": "Car maintenance cost"
+  },
+  {
+    "id": "6a6d850c-19c3-4deb-aa6e-d5595326c34d",
+    "categoryId": 12,
+    "amount": 110.94,
+    "date": "2023-09-12T00:00:00",
+    "description": "Fundraiser contribution"
+  },
+  {
+    "id": "d70df302-e11d-4010-8c70-8c96a859e99a",
+    "categoryId": 12,
+    "amount": 104.66,
+    "date": "2023-06-15T00:00:00",
+    "description": "Gift purchase"
+  },
+  {
+    "id": "0d0353d2-93ea-4a32-81b2-376f147b0c7c",
+    "categoryId": 5,
+    "amount": 97.08,
+    "date": "2023-09-19T00:00:00",
+    "description": "Home insurance fee"
+  },
+  {
+    "id": "3f9b5955-ef5e-4604-bb53-2b7d8730142e",
+    "categoryId": 10,
+    "amount": 828.08,
+    "date": "2023-08-10T00:00:00",
+    "description": "Accessory buy"
+  },
+  {
+    "id": "f159ad09-3469-4328-bd12-dddff1e1329d",
+    "categoryId": 7,
+    "amount": 513.04,
+    "date": "2023-08-13T00:00:00",
+    "description": "Tuition fee payment"
+  },
+  {
+    "id": "adad9358-35d9-4c92-ab4c-0c1decd90d23",
+    "categoryId": 1,
+    "amount": 900.73,
+    "date": "2023-12-08T00:00:00",
+    "description": "Housing maintenance cost"
+  },
+  {
+    "id": "41b01f06-8457-4fbe-b1d9-4dda3ad8e1cd",
+    "categoryId": 7,
+    "amount": 856.1,
+    "date": "2023-08-03T00:00:00",
+    "description": "Tuition fee payment"
+  },
+  {
+    "id": "92d8d14a-be43-4833-b3ab-9c8afae51785",
+    "categoryId": 3,
+    "amount": 916.57,
+    "date": "2023-06-07T00:00:00",
+    "description": "Food delivery order"
+  },
+  {
+    "id": "758d6daf-1aa4-41be-be9a-06ee64076e67",
+    "categoryId": 5,
+    "amount": 245.9,
+    "date": "2023-05-23T00:00:00",
+    "description": "Health insurance premium"
+  },
+  {
+    "id": "25d47573-f2d8-468c-9e48-23ccb89b06c2",
+    "categoryId": 3,
+    "amount": 532.15,
+    "date": "2023-08-24T00:00:00",
+    "description": "Food delivery order"
+  },
+  {
+    "id": "e336b8b0-f02f-46a2-9d4c-4d0e188e01ce",
+    "categoryId": 10,
+    "amount": 508.28,
+    "date": "2023-07-07T00:00:00",
+    "description": "Clothing purchase"
+  },
+  {
+    "id": "1b073d9b-fbbe-41e8-8326-193eead4aa51",
+    "categoryId": 5,
+    "amount": 635.05,
+    "date": "2023-01-30T00:00:00",
+    "description": "Car insurance payment"
+  },
+  {
+    "id": "c8f2fd9f-2fed-406f-b2e8-221ec4c8de05",
+    "categoryId": 6,
+    "amount": 863.56,
+    "date": "2023-07-11T00:00:00",
+    "description": "Medication purchase"
+  },
+  {
+    "id": "219e3375-6fa8-40d8-b649-4f01596d5efc",
+    "categoryId": 13,
+    "amount": 187.65,
+    "date": "2023-11-28T00:00:00",
+    "description": "Unexpected expense"
+  },
+  {
+    "id": "ef88b869-b7a2-482c-9a51-92c5aa3105e6",
+    "categoryId": 11,
+    "amount": 743.84,
+    "date": "2023-12-30T00:00:00",
+    "description": "Gym membership renewal"
+  },
+  {
+    "id": "dd0d8551-4cf2-4bf9-bf4e-e7e524b4b441",
+    "categoryId": 9,
+    "amount": 450.36,
+    "date": "2023-10-18T00:00:00",
+    "description": "Sporting event ticket"
+  },
+  {
+    "id": "f17443d6-e5a4-4f65-96d1-2708937952d9",
+    "categoryId": 10,
+    "amount": 155.08,
+    "date": "2023-01-05T00:00:00",
+    "description": "Shoe purchase"
+  },
+  {
+    "id": "7e4dd963-c5ec-4d4e-94fe-04f1a92433a2",
+    "categoryId": 12,
+    "amount": 172.33,
+    "date": "2023-10-26T00:00:00",
+    "description": "Gift purchase"
+  },
+  {
+    "id": "983a25f1-4351-444e-8ec0-15b0ad72e8b7",
+    "categoryId": 9,
+    "amount": 171.21,
+    "date": "2023-11-02T00:00:00",
+    "description": "Sporting event ticket"
+  },
+  {
+    "id": "6752249c-1503-4253-8bd9-7ff5a918328f",
+    "categoryId": 6,
+    "amount": 57.62,
+    "date": "2023-07-10T00:00:00",
+    "description": "Medical procedure cost"
+  },
+  {
+    "id": "555631e9-6b29-4c9c-ae17-6176e7f3a024",
+    "categoryId": 12,
+    "amount": 893.03,
+    "date": "2023-10-30T00:00:00",
+    "description": "Gift purchase"
+  },
+  {
+    "id": "e8e4209f-93a1-4037-bb01-f830eab9cff3",
+    "categoryId": 6,
+    "amount": 616.27,
+    "date": "2023-12-19T00:00:00",
+    "description": "Doctor\u0027s appointment fee"
+  },
+  {
+    "id": "5a163f52-e2bf-4a12-9131-c0aae3992b0c",
+    "categoryId": 5,
+    "amount": 323.46,
+    "date": "2023-05-24T00:00:00",
+    "description": "Life insurance installment"
+  },
+  {
+    "id": "2e9c7301-df80-4125-b50b-acdcef047d5b",
+    "categoryId": 13,
+    "amount": 932.55,
+    "date": "2023-03-11T00:00:00",
+    "description": "Miscellaneous item purchase"
+  },
+  {
+    "id": "7f1a0ed9-5dc7-49ac-88c7-e18d51863a80",
+    "categoryId": 5,
+    "amount": 426.66,
+    "date": "2023-03-13T00:00:00",
+    "description": "Life insurance installment"
+  },
+  {
+    "id": "c34ce12c-b4b2-4a61-a9ca-06b7eadb9856",
+    "categoryId": 8,
+    "amount": 762.04,
+    "date": "2023-06-22T00:00:00",
+    "description": "Childcare facility fee"
+  },
+  {
+    "id": "0335b340-e204-4faf-bb2c-00049758c5d6",
+    "categoryId": 12,
+    "amount": 745.13,
+    "date": "2023-06-15T00:00:00",
+    "description": "Fundraiser contribution"
+  },
+  {
+    "id": "c36d5882-270e-4163-922c-cd45541dcd8d",
+    "categoryId": 5,
+    "amount": 720.7,
+    "date": "2023-10-04T00:00:00",
+    "description": "Home insurance fee"
+  },
+  {
+    "id": "81cefa19-146c-4188-9196-a14f7d111e3e",
+    "categoryId": 3,
+    "amount": 295.97,
+    "date": "2023-11-03T00:00:00",
+    "description": "Dining out"
+  },
+  {
+    "id": "5826af60-561c-4ef3-8a5b-55d2d9292729",
+    "categoryId": 1,
+    "amount": 527.7,
+    "date": "2023-05-11T00:00:00",
+    "description": "Housing maintenance cost"
+  },
+  {
+    "id": "1e607526-e15e-4a2e-aa60-820230f249d3",
+    "categoryId": 7,
+    "amount": 637.97,
+    "date": "2023-01-15T00:00:00",
+    "description": "Tuition fee payment"
+  },
+  {
+    "id": "43585f68-0805-494e-9fce-6581c05fe84c",
+    "categoryId": 3,
+    "amount": 126.38,
+    "date": "2023-02-04T00:00:00",
+    "description": "Dining out"
+  },
+  {
+    "id": "5411e6dd-2582-4670-bb3a-1866eb384a13",
+    "categoryId": 7,
+    "amount": 257.11,
+    "date": "2023-12-19T00:00:00",
+    "description": "Textbook purchase"
+  },
+  {
+    "id": "595f0263-2a6f-4955-ac3b-16532607f4e1",
+    "categoryId": 2,
+    "amount": 919.91,
+    "date": "2023-11-18T00:00:00",
+    "description": "Water bill"
+  },
+  {
+    "id": "0ce91d45-5e1a-4bcf-bff6-dda49d89b24a",
+    "categoryId": 6,
+    "amount": 706,
+    "date": "2023-06-15T00:00:00",
+    "description": "Doctor\u0027s appointment fee"
+  },
+  {
+    "id": "a8cb7470-a26a-4822-8309-2f62d42d37e8",
+    "categoryId": 10,
+    "amount": 905.79,
+    "date": "2023-06-17T00:00:00",
+    "description": "Clothing purchase"
+  },
+  {
+    "id": "d87a6ed0-a0b3-4ae9-b494-b2e88b0073b9",
+    "categoryId": 1,
+    "amount": 617.21,
+    "date": "2023-11-14T00:00:00",
+    "description": "Mortgage installment"
+  },
+  {
+    "id": "53eb590c-11d0-4b3c-b8c4-94cc3fd5d97a",
+    "categoryId": 7,
+    "amount": 160.83,
+    "date": "2023-03-27T00:00:00",
+    "description": "School supplies cost"
+  },
+  {
+    "id": "a431ae75-96ea-407b-95b9-ce5ad995804c",
+    "categoryId": 8,
+    "amount": 177.96,
+    "date": "2023-06-23T00:00:00",
+    "description": "Childcare facility fee"
+  },
+  {
+    "id": "3daa1ccf-fcf3-4560-966a-99b66dbf4766",
+    "categoryId": 6,
+    "amount": 223.08,
+    "date": "2023-08-17T00:00:00",
+    "description": "Medication purchase"
+  },
+  {
+    "id": "2b552ccb-8e91-4226-9c37-39489238a803",
+    "categoryId": 11,
+    "amount": 467.89,
+    "date": "2023-12-19T00:00:00",
+    "description": "Haircut"
+  },
+  {
+    "id": "dfab55a9-855a-4374-bc64-8781baf1e6e4",
+    "categoryId": 8,
+    "amount": 699.99,
+    "date": "2023-03-30T00:00:00",
+    "description": "Childcare facility fee"
+  },
+  {
+    "id": "a754f7ff-88c2-4766-9871-fc6bf3e5e856",
+    "categoryId": 2,
+    "amount": 812.12,
+    "date": "2023-03-02T00:00:00",
+    "description": "Internet subscription"
+  },
+  {
+    "id": "f8c12a86-fd38-44bf-a7b6-0eca617aac85",
+    "categoryId": 11,
+    "amount": 124.64,
+    "date": "2023-02-19T00:00:00",
+    "description": "Gym membership renewal"
+  },
+  {
+    "id": "b1957c9c-7a14-4725-81df-1a01b281c2ea",
+    "categoryId": 10,
+    "amount": 433.17,
+    "date": "2023-06-19T00:00:00",
+    "description": "Accessory buy"
+  },
+  {
+    "id": "2036fa69-f482-4020-b77d-0eaea9497c2c",
+    "categoryId": 12,
+    "amount": 644.93,
+    "date": "2023-08-21T00:00:00",
+    "description": "Fundraiser contribution"
+  },
+  {
+    "id": "69879370-26d9-4790-a2d2-bd69635e8a16",
+    "categoryId": 5,
+    "amount": 972.6,
+    "date": "2023-11-01T00:00:00",
+    "description": "Car insurance payment"
+  },
+  {
+    "id": "5d7054e6-c8ea-4cc6-a954-4e31907ea54a",
+    "categoryId": 6,
+    "amount": 310.92,
+    "date": "2023-11-14T00:00:00",
+    "description": "Doctor\u0027s appointment fee"
+  },
+  {
+    "id": "163e65fb-a8e8-40e5-a87e-60bc095b3a2d",
+    "categoryId": 13,
+    "amount": 190.97,
+    "date": "2023-07-17T00:00:00",
+    "description": "Miscellaneous item purchase"
+  },
+  {
+    "id": "ddcb887b-0c8b-4bbe-9493-ac3300e9b155",
+    "categoryId": 5,
+    "amount": 475.12,
+    "date": "2023-04-07T00:00:00",
+    "description": "Life insurance installment"
+  },
+  {
+    "id": "a1a3b6a5-2286-474d-9585-5c22c77081e1",
+    "categoryId": 11,
+    "amount": 656.76,
+    "date": "2023-04-10T00:00:00",
+    "description": "Haircut"
+  },
+  {
+    "id": "5cd7cffe-a212-46fb-9e53-b92a0c74f563",
+    "categoryId": 13,
+    "amount": 143.8,
+    "date": "2023-05-29T00:00:00",
+    "description": "Random expenditure"
+  },
+  {
+    "id": "c45e707d-6b8d-4be0-ab9b-29c316832259",
+    "categoryId": 5,
+    "amount": 622.8,
+    "date": "2023-05-19T00:00:00",
+    "description": "Life insurance installment"
+  },
+  {
+    "id": "520314e1-36ae-495e-98d1-27ed74fb387d",
+    "categoryId": 3,
+    "amount": 159.54,
+    "date": "2023-07-21T00:00:00",
+    "description": "Food delivery order"
+  },
+  {
+    "id": "3447f4ca-81da-4ac5-af7c-a05eea0ab766",
+    "categoryId": 1,
+    "amount": 20.55,
+    "date": "2023-02-02T00:00:00",
+    "description": "Housing maintenance cost"
+  },
+  {
+    "id": "e4f29c29-d795-4897-8951-1438e4db4ac5",
+    "categoryId": 7,
+    "amount": 117.07,
+    "date": "2023-05-21T00:00:00",
+    "description": "Textbook purchase"
+  },
+  {
+    "id": "25472f8a-1fe3-437a-a348-5830260e7b70",
+    "categoryId": 9,
+    "amount": 515.18,
+    "date": "2023-01-12T00:00:00",
+    "description": "Concert ticket"
+  },
+  {
+    "id": "0cccf3ee-a7ee-407c-b8b5-3a2cb2e37844",
+    "categoryId": 5,
+    "amount": 397.27,
+    "date": "2023-05-30T00:00:00",
+    "description": "Car insurance payment"
+  },
+  {
+    "id": "9e713d99-2f42-4980-9c76-46222805270a",
+    "categoryId": 9,
+    "amount": 320.72,
+    "date": "2023-03-10T00:00:00",
+    "description": "Movie ticket"
+  },
+  {
+    "id": "724a3aaf-6df4-4cde-bc28-dde422118bfb",
+    "categoryId": 2,
+    "amount": 329.86,
+    "date": "2023-02-17T00:00:00",
+    "description": "Gas bill"
+  },
+  {
+    "id": "a4237d62-2499-4e76-ab49-154868078104",
+    "categoryId": 11,
+    "amount": 881.67,
+    "date": "2023-10-29T00:00:00",
+    "description": "Spa treatment"
+  },
+  {
+    "id": "0e24d1ba-08bb-42e7-8634-6cbbeb2242ec",
+    "categoryId": 12,
+    "amount": 369.97,
+    "date": "2023-01-19T00:00:00",
+    "description": "Fundraiser contribution"
+  },
+  {
+    "id": "8a43a547-f597-4276-9bf2-73a98abaf70b",
+    "categoryId": 8,
+    "amount": 439.44,
+    "date": "2023-08-24T00:00:00",
+    "description": "Childcare facility fee"
+  },
+  {
+    "id": "9c99778f-52c6-4614-9611-88eb599b9435",
+    "categoryId": 13,
+    "amount": 283.96,
+    "date": "2023-12-18T00:00:00",
+    "description": "Unexpected expense"
+  },
+  {
+    "id": "50ac5010-8604-4ac3-bdc5-051a8a52f845",
+    "categoryId": 13,
+    "amount": 598.87,
+    "date": "2023-10-27T00:00:00",
+    "description": "Miscellaneous item purchase"
+  },
+  {
+    "id": "d80d4e8a-67b8-422f-a579-19c7fd44b7fe",
+    "categoryId": 12,
+    "amount": 156.54,
+    "date": "2023-03-21T00:00:00",
+    "description": "Fundraiser contribution"
+  },
+  {
+    "id": "ce4e6b3e-b3db-4705-832e-18cedcffd07b",
+    "categoryId": 6,
+    "amount": 128.46,
+    "date": "2023-05-16T00:00:00",
+    "description": "Medical procedure cost"
+  },
+  {
+    "id": "21249c26-b92d-4177-85bd-99785f9ff72f",
+    "categoryId": 9,
+    "amount": 52.93,
+    "date": "2023-12-01T00:00:00",
+    "description": "Concert ticket"
+  },
+  {
+    "id": "6ec5fff5-158a-4ffc-be75-90dfda37bead",
+    "categoryId": 6,
+    "amount": 912.52,
+    "date": "2023-05-24T00:00:00",
+    "description": "Doctor\u0027s appointment fee"
+  },
+  {
+    "id": "12d4d404-f7ac-4a50-9639-1e8555914d6b",
+    "categoryId": 12,
+    "amount": 36.94,
+    "date": "2023-10-28T00:00:00",
+    "description": "Fundraiser contribution"
+  },
+  {
+    "id": "285ef87e-958e-4234-8202-e68d1076c450",
+    "categoryId": 10,
+    "amount": 143.26,
+    "date": "2023-06-19T00:00:00",
+    "description": "Clothing purchase"
+  },
+  {
+    "id": "bc91b28d-0b5a-4985-967a-e1c9ec112376",
+    "categoryId": 3,
+    "amount": 530.3,
+    "date": "2023-06-02T00:00:00",
+    "description": "Food delivery order"
+  },
+  {
+    "id": "d3429f4b-b3b6-42de-8ee7-65ffbea0e9b4",
+    "categoryId": 8,
+    "amount": 255.37,
+    "date": "2023-01-30T00:00:00",
+    "description": "Childcare facility fee"
+  },
+  {
+    "id": "2566392d-e646-4044-a45a-3eabc4751622",
+    "categoryId": 3,
+    "amount": 216.92,
+    "date": "2023-06-18T00:00:00",
+    "description": "Grocery shopping"
+  },
+  {
+    "id": "a6cb7371-9749-416e-bb00-7423ff8b082b",
+    "categoryId": 6,
+    "amount": 353.8,
+    "date": "2023-10-19T00:00:00",
+    "description": "Medication purchase"
+  },
+  {
+    "id": "5ea8a991-3de2-4c34-9a34-4a4387921466",
+    "categoryId": 4,
+    "amount": 744.53,
+    "date": "2023-06-15T00:00:00",
+    "description": "Fuel purchase"
+  },
+  {
+    "id": "47a2c3dc-b3b6-4dba-88a7-1f6e6369f2e8",
+    "categoryId": 4,
+    "amount": 834.48,
+    "date": "2023-10-14T00:00:00",
+    "description": "Public transport ticket"
+  },
+  {
+    "id": "f3c003a7-3731-4c7e-ab9a-1a4acafd0bd7",
+    "categoryId": 2,
+    "amount": 384.68,
+    "date": "2023-11-11T00:00:00",
+    "description": "Water bill"
+  },
+  {
+    "id": "f51c0557-cb80-42c9-986d-7bb49011a28b",
+    "categoryId": 4,
+    "amount": 398.48,
+    "date": "2023-07-25T00:00:00",
+    "description": "Public transport ticket"
+  },
+  {
+    "id": "b6811439-ed91-4553-8b15-4ac46052cfbc",
+    "categoryId": 5,
+    "amount": 940.71,
+    "date": "2023-06-06T00:00:00",
+    "description": "Car insurance payment"
+  },
+  {
+    "id": "77369b6e-1066-45a6-8771-6f5a2e958089",
+    "categoryId": 12,
+    "amount": 906.79,
+    "date": "2023-10-16T00:00:00",
+    "description": "Charity donation"
+  },
+  {
+    "id": "82d4b808-8c23-4150-86aa-4a012f716998",
+    "categoryId": 8,
+    "amount": 931.88,
+    "date": "2023-09-19T00:00:00",
+    "description": "Childcare facility fee"
+  },
+  {
+    "id": "bfbd86f1-9fdf-400c-b403-791bddd213d9",
+    "categoryId": 4,
+    "amount": 547.42,
+    "date": "2023-12-27T00:00:00",
+    "description": "Fuel purchase"
+  },
+  {
+    "id": "991a11a5-ecdc-4f9a-ab21-c2fa167e088a",
+    "categoryId": 10,
+    "amount": 204.13,
+    "date": "2023-08-12T00:00:00",
+    "description": "Shoe purchase"
+  },
+  {
+    "id": "10d98729-9048-49c2-aed7-6dab8b481b38",
+    "categoryId": 12,
+    "amount": 832.73,
+    "date": "2023-01-17T00:00:00",
+    "description": "Gift purchase"
+  },
+  {
+    "id": "b5d150f9-d494-4434-87c8-878a22e276e0",
+    "categoryId": 13,
+    "amount": 858.53,
+    "date": "2023-10-26T00:00:00",
+    "description": "Unexpected expense"
+  },
+  {
+    "id": "70c193d7-05ef-4d51-ab30-d044db3ae333",
+    "categoryId": 2,
+    "amount": 531.1,
+    "date": "2023-06-17T00:00:00",
+    "description": "Electricity bill"
+  },
+  {
+    "id": "d6eecf4a-e0ef-4aa6-875a-1ea0010107be",
+    "categoryId": 2,
+    "amount": 517.44,
+    "date": "2023-12-14T00:00:00",
+    "description": "Water bill"
+  },
+  {
+    "id": "01c7f227-caf4-435a-becd-6643a26d5b11",
+    "categoryId": 1,
+    "amount": 148.81,
+    "date": "2023-12-14T00:00:00",
+    "description": "Rent payment"
+  },
+  {
+    "id": "80ee6825-03da-436e-befc-ebbe7a771788",
+    "categoryId": 8,
+    "amount": 936.35,
+    "date": "2023-06-17T00:00:00",
+    "description": "Nanny payment"
+  },
+  {
+    "id": "ae43fcb6-eb45-4d8e-9f80-0623a965dbc4",
+    "categoryId": 3,
+    "amount": 687.01,
+    "date": "2023-06-06T00:00:00",
+    "description": "Grocery shopping"
+  },
+  {
+    "id": "d4919245-69fe-4777-948c-fdbd862e1f8c",
+    "categoryId": 12,
+    "amount": 991.61,
+    "date": "2023-05-25T00:00:00",
+    "description": "Charity donation"
+  },
+  {
+    "id": "21d9ed73-1241-47b7-9451-07a63440682f",
+    "categoryId": 3,
+    "amount": 813.46,
+    "date": "2023-03-19T00:00:00",
+    "description": "Dining out"
+  },
+  {
+    "id": "ccc0e06c-731e-4a83-bfba-4d14cf158a08",
+    "categoryId": 12,
+    "amount": 334.53,
+    "date": "2023-12-19T00:00:00",
+    "description": "Fundraiser contribution"
+  },
+  {
+    "id": "03279360-a95a-4e86-9afb-945e215cef5f",
+    "categoryId": 12,
+    "amount": 122.98,
+    "date": "2023-08-22T00:00:00",
+    "description": "Gift purchase"
+  },
+  {
+    "id": "39e3329a-78cd-46f0-b301-495d2829f069",
+    "categoryId": 7,
+    "amount": 245.04,
+    "date": "2023-07-04T00:00:00",
+    "description": "Tuition fee payment"
+  },
+  {
+    "id": "6e1e2859-1f91-458c-86a5-d94a4d0b1867",
+    "categoryId": 11,
+    "amount": 749.95,
+    "date": "2023-07-04T00:00:00",
+    "description": "Haircut"
+  },
+  {
+    "id": "915ff0f2-c78e-4ac2-a0a2-2d0605a9de9f",
+    "categoryId": 6,
+    "amount": 692.55,
+    "date": "2023-12-20T00:00:00",
+    "description": "Medical procedure cost"
+  },
+  {
+    "id": "315a9c8d-3ff0-4adc-a49d-32e965311718",
+    "categoryId": 13,
+    "amount": 46.11,
+    "date": "2023-07-21T00:00:00",
+    "description": "Unexpected expense"
+  },
+  {
+    "id": "0929db86-5018-4a40-bd1c-728f4dbd640d",
+    "categoryId": 11,
+    "amount": 989.1,
+    "date": "2023-08-18T00:00:00",
+    "description": "Gym membership renewal"
+  },
+  {
+    "id": "899a20e9-a980-45a9-ba90-70931cbd90f2",
+    "categoryId": 13,
+    "amount": 545.85,
+    "date": "2023-07-12T00:00:00",
+    "description": "Random expenditure"
+  },
+  {
+    "id": "8f7250cc-2e4a-45fe-9a9d-6c3f3ce2f38c",
+    "categoryId": 13,
+    "amount": 901.12,
+    "date": "2023-08-23T00:00:00",
+    "description": "Random expenditure"
+  },
+  {
+    "id": "2b622899-eb6d-433a-abe2-4e334d63fe9a",
+    "categoryId": 6,
+    "amount": 76.37,
+    "date": "2023-11-20T00:00:00",
+    "description": "Medication purchase"
+  },
+  {
+    "id": "0d0c8b47-84a4-437d-a978-eb2238188fe1",
+    "categoryId": 3,
+    "amount": 785.63,
+    "date": "2023-06-05T00:00:00",
+    "description": "Dining out"
+  },
+  {
+    "id": "478fc368-6d42-46b5-80ed-c5fa0f62972f",
+    "categoryId": 11,
+    "amount": 425.06,
+    "date": "2023-09-28T00:00:00",
+    "description": "Haircut"
+  },
+  {
+    "id": "bed58338-88a8-40e9-b062-cc2b247ca77f",
+    "categoryId": 5,
+    "amount": 783.08,
+    "date": "2023-11-27T00:00:00",
+    "description": "Home insurance fee"
+  },
+  {
+    "id": "0e583ca7-74fd-4f25-8187-a21e8b4c4f99",
+    "categoryId": 7,
+    "amount": 643.59,
+    "date": "2023-10-30T00:00:00",
+    "description": "Textbook purchase"
+  },
+  {
+    "id": "20223c00-e658-465e-973b-8d5a0a16b280",
+    "categoryId": 4,
+    "amount": 67.3,
+    "date": "2023-03-07T00:00:00",
+    "description": "Fuel purchase"
+  },
+  {
+    "id": "1f990a36-b825-4f66-b19d-aee695c0ff6e",
+    "categoryId": 11,
+    "amount": 509.35,
+    "date": "2023-02-23T00:00:00",
+    "description": "Spa treatment"
+  },
+  {
+    "id": "89afd6b2-53ba-4857-bb27-02125f70f71e",
+    "categoryId": 11,
+    "amount": 532.45,
+    "date": "2023-11-03T00:00:00",
+    "description": "Gym membership renewal"
+  },
+  {
+    "id": "3ce43ee8-4a72-4991-8627-63f3dea8be78",
+    "categoryId": 7,
+    "amount": 301.82,
+    "date": "2023-03-16T00:00:00",
+    "description": "Textbook purchase"
+  },
+  {
+    "id": "4dda8c23-9402-48db-be66-4f96360146c3",
+    "categoryId": 6,
+    "amount": 277.49,
+    "date": "2023-06-04T00:00:00",
+    "description": "Medication purchase"
+  },
+  {
+    "id": "001db25e-7d49-470d-adaf-1bad0de20723",
+    "categoryId": 5,
+    "amount": 956.63,
+    "date": "2023-06-19T00:00:00",
+    "description": "Life insurance installment"
+  },
+  {
+    "id": "2462d912-1986-4ec5-bcb3-c466c065af72",
+    "categoryId": 12,
+    "amount": 262.95,
+    "date": "2023-09-23T00:00:00",
+    "description": "Gift purchase"
+  },
+  {
+    "id": "a4d77954-2ba0-4250-b3bb-1e34b190a549",
+    "categoryId": 12,
+    "amount": 138.45,
+    "date": "2023-12-05T00:00:00",
+    "description": "Charity donation"
+  },
+  {
+    "id": "f46365cd-2374-4c8c-a2c7-dd136bb0394a",
+    "categoryId": 11,
+    "amount": 403.2,
+    "date": "2023-05-28T00:00:00",
+    "description": "Spa treatment"
+  },
+  {
+    "id": "8ce4faba-517f-4d33-8801-803d09c41be6",
+    "categoryId": 6,
+    "amount": 377.46,
+    "date": "2023-01-15T00:00:00",
+    "description": "Doctor\u0027s appointment fee"
+  },
+  {
+    "id": "6e2862ad-2739-474f-b138-e6795b967b1d",
+    "categoryId": 6,
+    "amount": 546.8,
+    "date": "2023-11-12T00:00:00",
+    "description": "Doctor\u0027s appointment fee"
+  },
+  {
+    "id": "a41024fb-c2a8-4667-a5b7-99449d75211c",
+    "categoryId": 4,
+    "amount": 332.25,
+    "date": "2023-10-16T00:00:00",
+    "description": "Public transport ticket"
+  },
+  {
+    "id": "c955488d-533b-4173-ab5c-3cf1d8a8663e",
+    "categoryId": 3,
+    "amount": 587.92,
+    "date": "2023-11-11T00:00:00",
+    "description": "Grocery shopping"
+  },
+  {
+    "id": "a1f27a34-93fc-463e-9c9d-a496c246049f",
+    "categoryId": 8,
+    "amount": 12.54,
+    "date": "2023-08-12T00:00:00",
+    "description": "Childcare facility fee"
+  },
+  {
+    "id": "ba17edd9-68ed-4c24-ab7e-a59326048810",
+    "categoryId": 12,
+    "amount": 924.76,
+    "date": "2023-10-02T00:00:00",
+    "description": "Fundraiser contribution"
+  },
+  {
+    "id": "02797ae1-07b8-40ec-93a5-7d0a5167778b",
+    "categoryId": 5,
+    "amount": 263.49,
+    "date": "2023-01-20T00:00:00",
+    "description": "Life insurance installment"
+  },
+  {
+    "id": "bc5b413b-59a9-4699-a85c-96cf4b1c8743",
+    "categoryId": 7,
+    "amount": 887.45,
+    "date": "2023-08-20T00:00:00",
+    "description": "School supplies cost"
+  },
+  {
+    "id": "ef64ba04-1967-44df-9197-36ad117e4acf",
+    "categoryId": 6,
+    "amount": 295.16,
+    "date": "2023-07-24T00:00:00",
+    "description": "Medication purchase"
+  },
+  {
+    "id": "d6f0f269-1932-4dcc-8122-253a40a1c5e7",
+    "categoryId": 13,
+    "amount": 406.24,
+    "date": "2023-10-11T00:00:00",
+    "description": "Miscellaneous item purchase"
+  },
+  {
+    "id": "52e66631-5c5d-40f1-a3c4-2eebf2b8b01b",
+    "categoryId": 6,
+    "amount": 470.66,
+    "date": "2023-10-08T00:00:00",
+    "description": "Doctor\u0027s appointment fee"
+  },
+  {
+    "id": "3453947d-13c3-408c-be85-795f53fa5493",
+    "categoryId": 10,
+    "amount": 101.98,
+    "date": "2023-05-16T00:00:00",
+    "description": "Accessory buy"
+  },
+  {
+    "id": "e99cc45f-c0d9-48c6-9f63-b41984a1aa08",
+    "categoryId": 9,
+    "amount": 964.1,
+    "date": "2023-02-25T00:00:00",
+    "description": "Sporting event ticket"
+  },
+  {
+    "id": "9b084b95-0322-4ec2-af99-674e55236ef7",
+    "categoryId": 1,
+    "amount": 881.95,
+    "date": "2023-07-21T00:00:00",
+    "description": "Mortgage installment"
+  },
+  {
+    "id": "1c18d3a5-ee63-4d2b-86ec-3176c99b3adf",
+    "categoryId": 11,
+    "amount": 421.17,
+    "date": "2023-12-27T00:00:00",
+    "description": "Haircut"
+  },
+  {
+    "id": "7f7ccb57-4ba6-4b86-bc35-bb9fd4638c5c",
+    "categoryId": 1,
+    "amount": 484.93,
+    "date": "2023-02-23T00:00:00",
+    "description": "Rent payment"
+  },
+  {
+    "id": "f095d8f1-7822-4eeb-99bf-fb4c9b0bc261",
+    "categoryId": 13,
+    "amount": 322.94,
+    "date": "2023-09-28T00:00:00",
+    "description": "Miscellaneous item purchase"
+  },
+  {
+    "id": "df834df0-06c3-4d09-91b2-b6ca48f20c12",
+    "categoryId": 13,
+    "amount": 863.76,
+    "date": "2023-03-11T00:00:00",
+    "description": "Random expenditure"
+  },
+  {
+    "id": "0321b638-0686-476b-aaeb-59fd3b6fe1b2",
+    "categoryId": 1,
+    "amount": 99.11,
+    "date": "2023-12-04T00:00:00",
+    "description": "Rent payment"
+  },
+  {
+    "id": "90fc825a-5dee-4d1e-9fe5-bddf76fb0189",
+    "categoryId": 3,
+    "amount": 977.06,
+    "date": "2023-10-30T00:00:00",
+    "description": "Food delivery order"
+  },
+  {
+    "id": "aab2b848-6ff5-41a0-bfe5-afb2473a0d8b",
+    "categoryId": 8,
+    "amount": 953.02,
+    "date": "2023-05-20T00:00:00",
+    "description": "Babysitting service"
+  },
+  {
+    "id": "3cbbdec2-5918-4fde-ac2b-e05df5b0a019",
+    "categoryId": 13,
+    "amount": 553.38,
+    "date": "2023-04-01T00:00:00",
+    "description": "Unexpected expense"
+  },
+  {
+    "id": "67a1c69a-3909-4bef-ac8f-5ac2bf004150",
+    "categoryId": 7,
+    "amount": 77.67,
+    "date": "2023-04-30T00:00:00",
+    "description": "School supplies cost"
+  },
+  {
+    "id": "1e27e7af-ba70-43a8-9f80-505765ea9851",
+    "categoryId": 7,
+    "amount": 536.06,
+    "date": "2023-01-05T00:00:00",
+    "description": "School supplies cost"
+  },
+  {
+    "id": "5230fd57-9d77-4d84-8a80-f37b8eadd689",
+    "categoryId": 12,
+    "amount": 699.41,
+    "date": "2023-02-10T00:00:00",
+    "description": "Gift purchase"
+  },
+  {
+    "id": "163b7629-90f5-4ad5-868c-d6e426e8dd8c",
+    "categoryId": 1,
+    "amount": 106.59,
+    "date": "2023-06-18T00:00:00",
+    "description": "Rent payment"
+  },
+  {
+    "id": "a7ce7224-6687-4fc2-8452-b048d3bb2d2a",
+    "categoryId": 4,
+    "amount": 651.89,
+    "date": "2023-10-07T00:00:00",
+    "description": "Fuel purchase"
+  },
+  {
+    "id": "456ccea5-6b9f-447e-999b-ef44516462e3",
+    "categoryId": 4,
+    "amount": 700.24,
+    "date": "2023-04-12T00:00:00",
+    "description": "Car maintenance cost"
+  },
+  {
+    "id": "6f5103e0-305c-46a1-8727-b9d00391abd8",
+    "categoryId": 6,
+    "amount": 137.82,
+    "date": "2023-05-23T00:00:00",
+    "description": "Medication purchase"
+  },
+  {
+    "id": "a7371164-1c14-4a59-8beb-46532de27462",
+    "categoryId": 5,
+    "amount": 148.86,
+    "date": "2023-05-17T00:00:00",
+    "description": "Car insurance payment"
+  },
+  {
+    "id": "c88be6c7-ad87-4ac7-a933-50cf68d1ab32",
+    "categoryId": 3,
+    "amount": 451.9,
+    "date": "2023-05-16T00:00:00",
+    "description": "Dining out"
+  },
+  {
+    "id": "0d0e17a1-8699-4cfb-ba27-b255fe3968ec",
+    "categoryId": 8,
+    "amount": 300.43,
+    "date": "2023-06-23T00:00:00",
+    "description": "Babysitting service"
+  },
+  {
+    "id": "e74bef11-eb10-42ac-8dcd-dc799f08d1ea",
+    "categoryId": 5,
+    "amount": 526.56,
+    "date": "2023-08-18T00:00:00",
+    "description": "Car insurance payment"
+  },
+  {
+    "id": "3542e8f9-74ee-47c1-a6f0-7ea521687e79",
+    "categoryId": 8,
+    "amount": 581.03,
+    "date": "2023-01-10T00:00:00",
+    "description": "Childcare facility fee"
+  },
+  {
+    "id": "92d9ff4f-052d-47d9-b081-94475291f2e0",
+    "categoryId": 3,
+    "amount": 570.33,
+    "date": "2023-08-18T00:00:00",
+    "description": "Grocery shopping"
+  },
+  {
+    "id": "e56574ca-4010-475d-9e5d-b3184940f1a3",
+    "categoryId": 5,
+    "amount": 979.42,
+    "date": "2023-02-16T00:00:00",
+    "description": "Health insurance premium"
+  },
+  {
+    "id": "1b1e12f7-2131-4b3f-b8db-ca29fa468bfb",
+    "categoryId": 2,
+    "amount": 661.02,
+    "date": "2023-08-28T00:00:00",
+    "description": "Internet subscription"
+  },
+  {
+    "id": "596cc430-237b-48cb-8596-5bdc9245c084",
+    "categoryId": 2,
+    "amount": 644.6,
+    "date": "2023-12-15T00:00:00",
+    "description": "Internet subscription"
+  },
+  {
+    "id": "86475a47-e541-45d5-8cc1-b5ebd2d99c1f",
+    "categoryId": 4,
+    "amount": 976.05,
+    "date": "2023-07-04T00:00:00",
+    "description": "Car maintenance cost"
+  },
+  {
+    "id": "aa48baa1-d50b-4d41-b8b6-e6fbc2b4d995",
+    "categoryId": 8,
+    "amount": 649.59,
+    "date": "2023-09-29T00:00:00",
+    "description": "Babysitting service"
+  },
+  {
+    "id": "eeeb7ae8-b08f-477e-945e-5b4136fee8e5",
+    "categoryId": 4,
+    "amount": 99.11,
+    "date": "2023-06-05T00:00:00",
+    "description": "Car maintenance cost"
+  },
+  {
+    "id": "d0b2c288-8294-4a89-b7f0-f8009eb48e2e",
+    "categoryId": 11,
+    "amount": 146.88,
+    "date": "2023-03-08T00:00:00",
+    "description": "Haircut"
+  },
+  {
+    "id": "d6847e2d-c3bd-4451-9bec-ff4e3511b505",
+    "categoryId": 3,
+    "amount": 428.23,
+    "date": "2023-05-29T00:00:00",
+    "description": "Grocery shopping"
+  },
+  {
+    "id": "8baad638-bd05-4aaa-aa0a-de55a70388a9",
+    "categoryId": 9,
+    "amount": 241.5,
+    "date": "2023-03-13T00:00:00",
+    "description": "Movie ticket"
+  },
+  {
+    "id": "59f3a717-41b3-4fba-bbe1-0882aec9550a",
+    "categoryId": 1,
+    "amount": 785.11,
+    "date": "2023-01-22T00:00:00",
+    "description": "Mortgage installment"
+  },
+  {
+    "id": "82d055b9-0c86-474e-9252-5a6fd3bf54b1",
+    "categoryId": 13,
+    "amount": 928.92,
+    "date": "2023-02-02T00:00:00",
+    "description": "Miscellaneous item purchase"
+  },
+  {
+    "id": "fbd9f311-7068-4a76-bd20-7ac9ff0d7ebb",
+    "categoryId": 5,
+    "amount": 581.85,
+    "date": "2023-11-22T00:00:00",
+    "description": "Home insurance fee"
+  },
+  {
+    "id": "636bbfc2-9c4d-4711-a25c-db87be86660f",
+    "categoryId": 12,
+    "amount": 188,
+    "date": "2023-04-12T00:00:00",
+    "description": "Charity donation"
+  },
+  {
+    "id": "62ee78a4-7037-4694-905e-bd0ff5145142",
+    "categoryId": 13,
+    "amount": 301.46,
+    "date": "2023-10-13T00:00:00",
+    "description": "Random expenditure"
+  },
+  {
+    "id": "fccfcdf7-66e7-4825-8916-747c925d9a55",
+    "categoryId": 7,
+    "amount": 108.72,
+    "date": "2023-09-16T00:00:00",
+    "description": "Textbook purchase"
+  },
+  {
+    "id": "d6a6bfbc-9623-46b4-b77d-ed96552cafa8",
+    "categoryId": 9,
+    "amount": 197.37,
+    "date": "2023-07-24T00:00:00",
+    "description": "Sporting event ticket"
+  },
+  {
+    "id": "509cd376-514e-4e9b-b25d-823c1597410d",
+    "categoryId": 8,
+    "amount": 536.74,
+    "date": "2023-02-05T00:00:00",
+    "description": "Childcare facility fee"
+  },
+  {
+    "id": "b2324e84-d0aa-4bb7-a626-784289d12757",
+    "categoryId": 4,
+    "amount": 200.1,
+    "date": "2021-10-15T00:00:00",
+    "description": "Car repair"
+  },
+  {
+    "id": "f41ab51b-52fc-48e3-a23d-d5b9f6a4619f",
+    "categoryId": 4,
+    "amount": 200.1,
+    "date": "2022-01-15T00:00:00",
+    "description": "Car repair"
+  },
+  {
+    "id": "4d3f898e-d341-47f8-9fa4-43e5518e2957",
+    "categoryId": 4,
+    "amount": 200.1,
+    "date": "2022-01-15T00:00:00",
+    "description": "Car Repair"
+  },
+  {
+    "id": "cf1b33ce-f322-45aa-be85-b0c0799acd7d",
+    "categoryId": 4,
+    "amount": 200.1,
+    "date": "2021-07-15T00:00:00",
+    "description": "Car repair"
+  },
+  {
+    "id": "99c9e8b2-a5e4-4c14-899f-df2d4d27d090",
+    "categoryId": 4,
+    "amount": 200.1,
+    "date": "2022-02-15T00:00:00",
+    "description": "Car repair"
+  },
+  {
+    "id": "7fa937b6-84d5-470b-8739-9949a789e1e3",
+    "categoryId": 4,
+    "amount": 200.1,
+    "date": "2021-07-15T00:00:00",
+    "description": "Car Repair"
+  },
+  {
+    "id": "49849b76-16c5-44ba-a922-b831103f7756",
+    "categoryId": 4,
+    "amount": 200.1,
+    "date": "2022-09-20T00:00:00",
+    "description": "Car Repair"
+  },
+  {
+    "id": "ee04ca22-d976-435f-9633-11ae78c2e25d",
+    "categoryId": 4,
+    "amount": 200.1,
+    "date": "2022-10-15T00:00:00",
+    "description": "Car Repair"
+  },
+  {
+    "id": "9335490e-5c73-46d3-8735-62198cf30ca1",
+    "categoryId": 4,
+    "amount": 200.1,
+    "date": "2022-06-01T00:00:00",
+    "description": "Car Repair"
+  },
+  {
+    "id": "c219dc57-113f-477f-b581-5857b0950cf8",
+    "categoryId": 4,
+    "amount": 200.1,
+    "date": "2022-10-01T00:00:00",
+    "description": "Car repair"
+  },
+  {
+    "id": "01b0c3d4-f8e9-4570-9450-be033fa5b07d",
+    "categoryId": 4,
+    "amount": 200.1,
+    "date": "2022-10-01T00:00:00",
+    "description": "Car repair"
+  },
+  {
+    "id": "6749091e-8a64-40a6-ade1-cb3fd60b4cba",
+    "categoryId": 4,
+    "amount": 200.1,
+    "date": "2022-10-15T00:00:00",
+    "description": "Car repair"
+  },
+  {
+    "id": "d567e8c5-f750-4e0b-8442-6ed2a5c4b182",
+    "categoryId": 4,
+    "amount": 200.1,
+    "date": "2022-03-15T00:00:00",
+    "description": "Car repair"
+  },
+  {
+    "id": "d835ef99-c1f7-47f4-a318-aa77e59e517e",
+    "categoryId": 4,
+    "amount": 300,
+    "date": "2022-03-15T00:00:00",
+    "description": "Car repair"
+  },
+  {
+    "id": "95c2f017-7b2c-4433-9af8-64627546f9de",
+    "categoryId": 4,
+    "amount": 200,
+    "date": "2021-11-10T00:00:00",
+    "description": "Car Repair"
+  },
+  {
+    "id": "148c2648-4691-40ed-b232-588461f9d080",
+    "categoryId": 4,
+    "amount": 200,
+    "date": "2022-10-25T00:00:00",
+    "description": "Car repair"
+  },
+  {
+    "id": "2d7a17b6-4485-4f07-98c0-b75d3de8b890",
+    "categoryId": 4,
+    "amount": 200,
+    "date": "2021-10-03T00:00:00",
+    "description": "Car Repair"
+  },
+  {
+    "id": "ff1edf8a-6b6b-4b88-942c-c0a6ffd3e781",
+    "categoryId": 7,
+    "amount": 200,
+    "date": "2022-02-01T00:00:00",
+    "description": "Buy a new book"
+  },
+  {
+    "id": "e94d2a2e-d5bc-4d47-8209-a94f1b396dbf",
+    "categoryId": 10,
+    "amount": 200,
+    "date": "2021-11-14T00:00:00",
+    "description": "Buy a new book"
+  },
+  {
+    "id": "8003d93c-d2be-48c6-9e13-8d658606c980",
+    "categoryId": 9,
+    "amount": 200,
+    "date": "2021-09-15T00:00:00",
+    "description": "Buy a new game"
+  },
+  {
+    "id": "3fa9a38b-15f3-46c1-aef7-d0d43605222b",
+    "categoryId": 13,
+    "amount": 200,
+    "date": "2021-10-05T00:00:00",
+    "description": "buy a new game"
+  },
+  {
+    "id": "dd7f6000-425c-4c5f-a8f2-2f895b32d701",
+    "categoryId": 4,
+    "amount": 200,
+    "date": "2023-12-03T00:00:00",
+    "description": "Car repair"
+  },
+  {
+    "id": "b51208a4-3e03-47d4-8f13-22edf51ead82",
+    "categoryId": 3,
+    "amount": 10,
+    "date": "2023-12-03T00:00:00",
+    "description": "Restaurant GoNoodle"
+  },
+  {
+    "id": "999eabb9-32ff-47b8-aeb5-c757e125758f",
+    "categoryId": 3,
+    "amount": 200,
+    "date": "2023-12-02T00:00:00",
+    "description": ""
+  }
+]
