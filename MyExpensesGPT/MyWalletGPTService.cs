@@ -67,13 +67,8 @@ internal class MyWalletGPTService : IHostedService
             {
                await Console.Out.WriteLineAsync("system error, try again. "  + ex.Message);
             }
-            finally
-            {
-                completionsOptions.Messages.Clear();
-            }
-         
-
-
+           
+        
         }
     }
 
@@ -140,21 +135,21 @@ internal class MyWalletGPTService : IHostedService
                      }, JsonExtension.JsonSerializerOption)
 
             },
-            new FunctionDefinition
-             {
-                 Name=nameof(FilterExpenses),
-                 Description="Get list of expenses in detail, include id, description, date, amount, must filter filter by category, date start and start end, date range cannot more than 31 days",
-                 Parameters=BinaryData.FromObjectAsJson(
-                     new {
-                        Type="object",
-                        Properties=new{
-                            startDate=new { Type="string", Description="Start date of expense"},
-                            endDate=new { Type="string", Description="End date of expense"}
-                        },
-                        Required = new string[] {"startDate", "endDate"},
-                     }, JsonExtension.JsonSerializerOption)
+            //new FunctionDefinition
+            // {
+            //     Name=nameof(FilterExpenses),
+            //     Description="Get list of expenses in detail, include id, description, date, amount, must filter filter by category, date start and start end, date range cannot more than 31 days",
+            //     Parameters=BinaryData.FromObjectAsJson(
+            //         new {
+            //            Type="object",
+            //            Properties=new{
+            //                startDate=new { Type="string", Description="Start date of expense"},
+            //                endDate=new { Type="string", Description="End date of expense"}
+            //            },
+            //            Required = new string[] {"startDate", "endDate"},
+            //         }, JsonExtension.JsonSerializerOption)
 
-            },
+            //},
             new FunctionDefinition
              {
                  Name=nameof(GetTotalExpensesByCategory),
